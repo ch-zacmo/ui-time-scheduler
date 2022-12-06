@@ -25,13 +25,13 @@
             "device": "Device"
         },
         "days": [
-            "Dimanche",
-            "Lundi",
-            "Mardi",
-            "Mercredi",
-            "Jeudi",
-            "Vendredi",
-            "Samedi"
+            "Sunday",
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday"
         ],
         "customPayloadDesc": "Accept free-form frontend input for events",
         "eventModeDesc": "Schedule single events rather than a time span",
@@ -41,22 +41,22 @@
         "copy": "copy",
         "ui": {
             "start": "Start",
-            "starttime": "Start",
-            "end": "Stop",
-            "endtime": "Fin",
+            "starttime": "Starttime",
+            "end": "End",
+            "endtime": "Endtime",
             "event": "Event",
-            "duration": "Durée",
+            "duration": "Duration",
             "overview": "Overview",
             "days": [
-                "DI",
-                "LU",
-                "MA",
-                "ME",
-                "JE",
-                "VE",
+                "SU",
+                "MO",
+                "TU",
+                "WE",
+                "TH",
+                "FR",
                 "SA"
             ],
-            "daysActive": "Slectionner les jours actifs",
+            "daysActive": "Select active days",
             "active": "Active",
             "all": "All",
             "custom": "custom",
@@ -75,12 +75,12 @@
             "nauticalDawn": "nautical dawn",
             "dawn": "dawn",
             "payloadWarning": "Invalid or no payload provided.",
-            "emptyOverview": "Acune horloge. Selectionner \"Overview\" pour regler un objet.",
+            "emptyOverview": "Nothing planned yet. Click \"Overview\" and select a device.",
             "noActiveOverview": "No schedules are active. Click \"Overview\" and select a device.",
-            "nothingPlanned": "Cliquer sur \"plus\" pour ajouter une horloge.",
+            "nothingPlanned": "Nothing planned yet. Click the plus sign to add a new timer.",
             "alertTimespan": "Time frame exceeds midnight.\nDo you want to continue?",
             "alertTimespanDay": "Time frame must not exceed 24 hours.",
-            "selectAll": "Selectionner tous"
+            "selectAll": "Select All"
         }
     }
 }
